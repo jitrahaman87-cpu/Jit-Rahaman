@@ -1,0 +1,6 @@
+{
+  "name": "OmniPDF Suite",
+  "description": "An enterprise-grade online PDF suite with 70+ modular tools for organizing, converting, optimizing, securing, editing, and AI-powered document intelligence.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
